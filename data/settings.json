@@ -1,0 +1,181 @@
+{
+  "useCookies": true,
+  "maps": {
+    "nether": {
+      "enabled": true,
+      "hires": {
+        "tileSize": {
+          "x": 32,
+          "z": 32
+        },
+        "scale": {
+          "x": 1,
+          "z": 1
+        },
+        "translate": {
+          "x": 2,
+          "z": 2
+        }
+      },
+      "lowres": {
+        "tileSize": {
+          "x": 400,
+          "z": 400
+        },
+        "scale": {
+          "x": 8,
+          "z": 8
+        },
+        "translate": {
+          "x": 4,
+          "z": 4
+        }
+      },
+      "startPos": {
+        "x": 11,
+        "z": 10
+      },
+      "world": "ba916261-7fa8-43c1-adea-68bf3a71d6fe",
+      "ordinal": 2,
+      "skyColor": {
+        "r": 0.16078432,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "ambientLight": 0.6,
+      "name": "Nether"
+    },
+    "slyinc": {
+      "enabled": true,
+      "hires": {
+        "tileSize": {
+          "x": 32,
+          "z": 32
+        },
+        "scale": {
+          "x": 1,
+          "z": 1
+        },
+        "translate": {
+          "x": 2,
+          "z": 2
+        }
+      },
+      "lowres": {
+        "tileSize": {
+          "x": 400,
+          "z": 400
+        },
+        "scale": {
+          "x": 8,
+          "z": 8
+        },
+        "translate": {
+          "x": 4,
+          "z": 4
+        }
+      },
+      "startPos": {
+        "x": -224,
+        "z": 30
+      },
+      "world": "e584fbd9-3168-4e44-a251-5c5b476ecfae",
+      "ordinal": 0,
+      "skyColor": {
+        "r": 0.49019608,
+        "g": 0.67058825,
+        "b": 1.0
+      },
+      "ambientLight": 0.0,
+      "name": "Slyinc"
+    },
+    "end": {
+      "enabled": true,
+      "hires": {
+        "tileSize": {
+          "x": 32,
+          "z": 32
+        },
+        "scale": {
+          "x": 1,
+          "z": 1
+        },
+        "translate": {
+          "x": 2,
+          "z": 2
+        }
+      },
+      "lowres": {
+        "tileSize": {
+          "x": 400,
+          "z": 400
+        },
+        "scale": {
+          "x": 8,
+          "z": 8
+        },
+        "translate": {
+          "x": 4,
+          "z": 4
+        }
+      },
+      "startPos": {
+        "x": 0,
+        "z": 0
+      },
+      "world": "8d8271dc-8c90-40a4-a2d5-628db1fc23b8",
+      "ordinal": 1,
+      "skyColor": {
+        "r": 0.03137255,
+        "g": 0.0,
+        "b": 0.0627451
+      },
+      "ambientLight": 0.6,
+      "name": "End"
+    },
+    "wolrd": {
+      "enabled": true,
+      "hires": {
+        "tileSize": {
+          "x": 32,
+          "z": 32
+        },
+        "scale": {
+          "x": 1,
+          "z": 1
+        },
+        "translate": {
+          "x": 2,
+          "z": 2
+        }
+      },
+      "lowres": {
+        "tileSize": {
+          "x": 400,
+          "z": 400
+        },
+        "scale": {
+          "x": 8,
+          "z": 8
+        },
+        "translate": {
+          "x": 4,
+          "z": 4
+        }
+      },
+      "startPos": {
+        "x": -194,
+        "z": -116
+      },
+      "world": "9672ac1b-4679-443d-8cf0-e650bf62680a",
+      "ordinal": 3,
+      "skyColor": {
+        "r": 0.49019608,
+        "g": 0.67058825,
+        "b": 1.0
+      },
+      "ambientLight": 0.0,
+      "name": "World"
+    }
+  }
+}
